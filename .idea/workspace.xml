@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cf167ec-f1f7-4899-bbb6-86f6ba7bcd47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/validAnagram/validAnagram.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ContainsDuplicateKt">
+  <component name="RunManager" selected="Kotlin.ValidAnagramKt">
     <configuration name="ContainsDuplicateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="containsDuplicate.ContainsDuplicateKt" />
       <module name="leetcode_youtube" />
@@ -68,8 +69,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidAnagramKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="validAnagram.ValidAnagramKt" />
+      <module name="leetcode_youtube" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ValidAnagramKt" />
         <item itemvalue="Kotlin.ContainsDuplicateKt" />
         <item itemvalue="Kotlin.TwoSumKt (1)" />
         <item itemvalue="Kotlin.TwoSumKt" />
