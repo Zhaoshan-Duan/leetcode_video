@@ -1,4 +1,4 @@
-package topKFreqElements
+package topKFreqElements_347
 
 fun main() {
     val input = intArrayOf(1, 1, 1, 2, 2, 3, 3)

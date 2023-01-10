@@ -1,4 +1,4 @@
-package validAnagram
+package validAnagram_242
 
 fun main() {
     val (s, t) = Pair("anagram", "nagaram")

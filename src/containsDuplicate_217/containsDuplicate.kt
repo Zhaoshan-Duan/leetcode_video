@@ -1,4 +1,4 @@
-package containsDuplicate
+package containsDuplicate_217
 
 fun main() {
     val input = intArrayOf(1, 2, 3, 1)

@@ -1,4 +1,4 @@
-package groupAnagrams
+package groupAnagrams_49
 
 fun main() {
     val input = arrayOf("eat", "tea", "tan", "ate", "nat", "bat")
