@@ -1,4 +1,4 @@
-package productExceptSelf
+package productExceptSelf_238
 
 fun main(){
     val input = intArrayOf(1,2,3,4)
